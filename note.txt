@@ -77,4 +77,4 @@ VD: git add index.html ( index.html sẽ di chuyển tới Staging_Area )
 
 Commited: nó sẽ di chuyển từ Staging_Area wa Commited
 VD file là index.htmkl:
-$ git commit -m 'add index.html file' ( 'add index.html file': là ghi chú mình muốn ghi)
+$ git commit -m 'add index.html file' ( 'add index.html file': là ghi chú mình muốn ghi) d
